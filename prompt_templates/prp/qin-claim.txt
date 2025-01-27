@@ -1,0 +1,7 @@
+Given a claim "@@query@@", which of the following two passages is more relevant to the claim?
+
+Passage A: @@passage_a@@
+
+Passage B: @@passage_b@@
+
+Output Passage A or Passage B:

@@ -1,0 +1,3 @@
+Write a fact-checking article about the claim that "@@claim@@"
+Conclude your fact-checking article with a verdict in a single line: "Verdict: (your verdict label)".
+Choose one of the following verdicts: True, Unknown, False.

@@ -1,0 +1,4 @@
+Claim: "@@claim@@"
+
+To the best of your knowledge, what is the veracity of the claim?
+Provide a thorough explanation supporting your decision, select one of the answers (True, False, Unknown) and output the veracity of the claim in a single line: "Veracity: (your veracity label)".

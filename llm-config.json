@@ -1,0 +1,24 @@
+{
+  "gpt-4": {
+      "AZURE_OPENAI_ENDPOINT": "<enter_here>",
+      "OPENAI_API_KEY": "<enter_here>"
+  },
+  "gpt-35-turbo-0613": {
+      "AZURE_OPENAI_ENDPOINT": "<enter_here>",
+      "OPENAI_API_KEY": "<enter_here>"
+  },
+  "gpt-35-turbo-16k-no-filter": {
+      "AZURE_OPENAI_ENDPOINT": "<enter_here>",
+      "OPENAI_API_KEY": "<enter_here>"
+  },
+  "gpt4-turbo-128k": {
+    "AZURE_OPENAI_ENDPOINT": "<enter_here>",
+      "OPENAI_API_KEY": "<enter_here>"
+  },
+  "llama2": {
+    "directory": "<enter_here>"
+  },
+  "llama3": {
+    "directory": "<enter_here>"
+  }
+}

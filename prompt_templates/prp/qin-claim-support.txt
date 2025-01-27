@@ -1,0 +1,7 @@
+Given a claim "@@query@@", is it more likely that someone made the claim based on passage A or based on passage B?
+
+Passage A: @@passage_a@@
+
+Passage B: @@passage_b@@
+
+Output Passage A or Passage B:

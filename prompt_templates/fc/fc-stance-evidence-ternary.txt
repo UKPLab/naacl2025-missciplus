@@ -1,0 +1,5 @@
+Study:
+@@evidence@@
+
+Rate if the claim "@@claim@@" is correct based on the study.
+Answer with "Verdict: (Correct / Incorrect / Not Enough Information)"
